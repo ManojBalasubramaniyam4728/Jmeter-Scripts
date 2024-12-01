@@ -1,0 +1,175 @@
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Jan 08 11:02:49 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Jan 08 11:02:49 2012] [notice] Parent: Created child process 3560
+[Sun Jan 08 11:02:49 2012] [notice] Child 3560: Child process is running
+[Sun Jan 08 11:02:49 2012] [notice] Child 3560: Acquired the start mutex.
+[Sun Jan 08 11:02:49 2012] [notice] Child 3560: Starting 64 worker threads.
+[Sun Jan 08 11:02:49 2012] [notice] Child 3560: Starting thread to listen on port 80.
+[Sun Jan 08 11:02:56 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 08 11:02:56 2012] [notice] Child 3560: Exit event signaled. Child process is ending.
+[Sun Jan 08 11:02:57 2012] [notice] Child 3560: Released the start mutex
+[Sun Jan 08 11:02:58 2012] [notice] Child 3560: All worker threads have exited.
+[Sun Jan 08 11:02:58 2012] [notice] Child 3560: Child process is exiting
+[Sun Jan 08 11:02:58 2012] [notice] Parent: Child process exited successfully.
+[Sun Jan 08 11:03:29 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Jan 08 11:03:29 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Jan 08 11:03:29 2012] [notice] Parent: Created child process 3788
+[Sun Jan 08 11:03:29 2012] [notice] Child 3788: Child process is running
+[Sun Jan 08 11:03:29 2012] [notice] Child 3788: Acquired the start mutex.
+[Sun Jan 08 11:03:29 2012] [notice] Child 3788: Starting 64 worker threads.
+[Sun Jan 08 11:03:29 2012] [notice] Child 3788: Starting thread to listen on port 80.
+[Sun Jan 08 11:04:12 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jan 08 11:04:12 2012] [notice] Child 3788: Exit event signaled. Child process is ending.
+[Sun Jan 08 11:04:13 2012] [notice] Child 3788: Released the start mutex
+[Sun Jan 08 11:04:14 2012] [notice] Child 3788: All worker threads have exited.
+[Sun Jan 08 11:04:14 2012] [notice] Child 3788: Child process is exiting
+[Sun Jan 08 11:04:14 2012] [notice] Parent: Child process exited successfully.
+[Sun Jan 08 11:07:36 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Jan 08 11:07:36 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Jan 08 11:07:36 2012] [notice] Parent: Created child process 2900
+[Sun Jan 08 11:07:36 2012] [notice] Child 2900: Child process is running
+[Sun Jan 08 11:07:36 2012] [notice] Child 2900: Acquired the start mutex.
+[Sun Jan 08 11:07:36 2012] [notice] Child 2900: Starting 64 worker threads.
+[Sun Jan 08 11:07:37 2012] [notice] Child 2900: Starting thread to listen on port 80.
+[Sun Jan 08 11:11:04 2012] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/printenv.pl
+[Sun Jan 08 11:11:14 2012] [error] [client 127.0.0.1] (OS 3)The system cannot find the path specified.  : couldn't create child process: 720003: printenv.pl
+[Sun Jan 08 11:11:14 2012] [error] [client 127.0.0.1] (OS 3)The system cannot find the path specified.  : couldn't spawn child process: C:/Program Files/Apache Software Foundation/Apache2.2/cgi-bin/printenv.pl
+[Sun Jan 08 11:11:38 2012] [error] [client 127.0.0.1] script not found or unable to stat: C:/Program Files/Apache Software Foundation/Apache2.2/cgi-bin/printenv
+[Tue Jan 10 10:13:05 2012] [warn] pid file C:/Program Files/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 10 10:13:05 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Tue Jan 10 10:13:05 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Tue Jan 10 10:13:05 2012] [notice] Parent: Created child process 1352
+[Tue Jan 10 10:13:05 2012] [notice] Child 1352: Child process is running
+[Tue Jan 10 10:13:05 2012] [notice] Child 1352: Acquired the start mutex.
+[Tue Jan 10 10:13:05 2012] [notice] Child 1352: Starting 64 worker threads.
+[Tue Jan 10 10:13:05 2012] [notice] Child 1352: Starting thread to listen on port 80.
+[Thu Jan 12 14:07:28 2012] [warn] pid file C:/Program Files/Apache Software Foundation/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 12 14:07:29 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Thu Jan 12 14:07:29 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Thu Jan 12 14:07:29 2012] [notice] Parent: Created child process 2088
+[Thu Jan 12 14:07:29 2012] [notice] Child 2088: Child process is running
+[Thu Jan 12 14:07:29 2012] [notice] Child 2088: Acquired the start mutex.
+[Thu Jan 12 14:07:29 2012] [notice] Child 2088: Starting 64 worker threads.
+[Thu Jan 12 14:07:29 2012] [notice] Child 2088: Starting thread to listen on port 80.
+[Thu Jan 12 14:20:24 2012] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/WebTours
+[Thu Jan 12 14:20:24 2012] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/favicon.ico
+[Thu Jan 12 14:20:34 2012] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/WebTours
+[Thu Jan 12 14:20:39 2012] [error] [client 127.0.0.1] File does not exist: C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/WebTours
+[Thu Jan 12 14:27:50 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 12 14:27:50 2012] [notice] Child 2088: Exit event signaled. Child process is ending.
+[Thu Jan 12 14:27:50 2012] [notice] Child 2088: Released the start mutex
+[Thu Jan 12 14:27:51 2012] [notice] Child 2088: All worker threads have exited.
+[Thu Jan 12 14:27:51 2012] [notice] Child 2088: Child process is exiting
+[Thu Jan 12 14:27:51 2012] [notice] Parent: Child process exited successfully.
+[Thu Jan 12 14:27:52 2012] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Thu Jan 12 14:27:52 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Thu Jan 12 14:27:52 2012] [notice] Parent: Created child process 3632
+Apache server interrupted...
+otice] Child 3632: Child process is running
+[Thu Jan 12 14:27:52 2012] [notice] Child 3632: Acquired the start mutex.
+[Thu Jan 12 14:27:52 2012] [notice] Child 3632: Starting 64 worker threads.
+[Thu Jan 12 14:27:52 2012] [notice] Child 3632: Starting thread to listen on port 80.
+[Thu Jan 12 14:28:15 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu Jan 12 14:28:17 2012] [notice] Child 3632: All worker threads have exited.
+[Thu Jan 12 14:28:17 2012] [notice] Child 3632: Child process is exiting
+[Thu Jan 12 14:28:17 2012] [notice] Parent: Child process exited successfully.
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Thu Jan 12 14:28:38 2012] [notice] Server built: Sep  9 2011 10:26:10
+[Thu Jan 12 14:28:38 2012] [notice] Parent: Created child process 3784
+[Thu Jan 12 14:28:38 2012] [notice] Child 3784: Child process is running
+[Thu Jan 12 14:28:38 2012] [notice] Child 3784: Acquired the start mutex.
+[Thu Jan 12 14:28:38 2012] [notice] Child 3784: Starting 64 worker threads.
+[Thu Jan 12 14:28:38 2012] [notice] Child 3784: Starting thread to listen on port 80.
+[Thu Jan 12 14:29:29 2012] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 12 14:29:29 2012] [notice] Child 3784: Exit event signaled. Child process is ending.
+[Thu Jan 12 14:29:31 2012] [notice] Child 3784: Released the start mutex
+[Thu Jan 12 14:29:32 2012] [notice] Child 3784: All worker threads have exited.
+[Thu Jan 12 14:29:32 2012] [notice] Child 3784: Child process is exiting
+[Thu Jan 12 14:29:32 2012] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Fri Nov 29 20:52:20 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Fri Nov 29 20:52:20 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Fri Nov 29 20:52:20 2024] [notice] Parent: Created child process 7972
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server interrupted...
+ determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Fri Nov 29 20:52:20 2024] [notice] Child 7972: Child process is running
+[Fri Nov 29 20:52:20 2024] [notice] Child 7972: Acquired the start mutex.
+[Fri Nov 29 20:52:20 2024] [notice] Child 7972: Starting 64 worker threads.
+[Fri Nov 29 20:52:20 2024] [notice] Child 7972: Starting thread to listen on port 1080.
+[Fri Nov 29 20:52:26 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 29 20:52:26 2024] [notice] Child 7972: Exit event signaled. Child process is ending.
+[Fri Nov 29 20:52:27 2024] [notice] Child 7972: Released the start mutex
+[Fri Nov 29 20:52:28 2024] [notice] Child 7972: All worker threads have exited.
+[Fri Nov 29 20:52:28 2024] [notice] Child 7972: Child process is exiting
+[Fri Nov 29 20:52:28 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Fri Nov 29 20:54:31 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Fri Nov 29 20:54:31 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Fri Nov 29 20:54:31 2024] [notice] Parent: Created child process 25060
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server interrupted...
+ determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Fri Nov 29 20:54:31 2024] [notice] Child 25060: Child process is running
+[Fri Nov 29 20:54:31 2024] [notice] Child 25060: Acquired the start mutex.
+[Fri Nov 29 20:54:31 2024] [notice] Child 25060: Starting 64 worker threads.
+[Fri Nov 29 20:54:31 2024] [notice] Child 25060: Starting thread to listen on port 1080.
+[Fri Nov 29 20:58:58 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server shutdown initiated...
+Child 25060: Exit event signaled. Child process is ending.
+[Fri Nov 29 20:58:59 2024] [notice] Child 25060: Released the start mutex
+[Fri Nov 29 20:59:00 2024] [notice] Child 25060: All worker threads have exited.
+[Fri Nov 29 20:59:00 2024] [notice] Child 25060: Child process is exiting
+[Fri Nov 29 20:59:00 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Sun Dec 01 11:18:24 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Sun Dec 01 11:18:24 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Sun Dec 01 11:18:24 2024] [notice] Parent: Created child process 20844
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Sun Dec 01 11:18:24 2024] [notice] Child 20844: Child process is running
+[Sun Dec 01 11:18:24 2024] [notice] Child 20844: Acquired the start mutex.
+[Sun Dec 01 11:18:24 2024] [notice] Child 20844: Starting 64 worker threads.
+[Sun Dec 01 11:18:24 2024] [notice] Child 20844: Starting thread to listen on port 1080.
+[Sun Dec 01 11:19:24 2024] [error] [client 192.168.211.147] File does not exist: C:/Users/manoj.b/Jmeter script/Web Tours Sample Application/WebTours/htdocs/favicon.ico, referer: http://192.168.211.147:1080/webtours/
+[Sun Dec 01 11:20:37 2024] [error] [client 192.168.211.147] File does not exist: C:/Users/manoj.b/Jmeter script/Web Tours Sample Application/WebTours/htdocs/favicon.ico, referer: http://192.168.211.147:1080/webtours/
+[Sun Dec 01 14:26:41 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 01 14:26:41 2024] [notice] Child 20844: Exit event signaled. Child process is ending.
+[Sun Dec 01 14:26:42 2024] [notice] Child 20844: Released the start mutex
+[Sun Dec 01 14:26:43 2024] [notice] Child 20844: All worker threads have exited.
+[Sun Dec 01 14:26:43 2024] [notice] Child 20844: Child process is exiting
+[Sun Dec 01 14:26:43 2024] [notice] Parent: Child process exited successfully.
