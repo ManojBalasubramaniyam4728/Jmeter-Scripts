@@ -173,3 +173,39 @@ ine the server's fully qualified domain name, using 192.168.211.147 for ServerNa
 [Sun Dec 01 14:26:43 2024] [notice] Child 20844: All worker threads have exited.
 [Sun Dec 01 14:26:43 2024] [notice] Child 20844: Child process is exiting
 [Sun Dec 01 14:26:43 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Mon Dec 02 07:48:40 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Mon Dec 02 07:48:40 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Mon Dec 02 07:48:43 2024] [notice] Parent: Created child process 8732
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server interrupted...
+ determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Mon Dec 02 07:48:43 2024] [notice] Child 8732: Child process is running
+[Mon Dec 02 07:48:43 2024] [notice] Child 8732: Acquired the start mutex.
+[Mon Dec 02 07:48:43 2024] [notice] Child 8732: Starting 64 worker threads.
+[Mon Dec 02 07:48:43 2024] [notice] Child 8732: Starting thread to listen on port 1080.
+[Mon Dec 02 07:48:49 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+otice] Child 8732: Exit event signaled. Child process is ending.
+[Mon Dec 02 07:48:50 2024] [notice] Child 8732: Released the start mutex
+[Mon Dec 02 07:48:51 2024] [notice] Child 8732: All worker threads have exited.
+[Mon Dec 02 07:48:51 2024] [notice] Child 8732: Child process is exiting
+[Mon Dec 02 07:48:51 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Mon Dec 02 07:49:53 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Mon Dec 02 07:49:53 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Mon Dec 02 07:49:53 2024] [notice] Parent: Created child process 5832
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Mon Dec 02 07:49:53 2024] [notice] Child 5832: Child process is running
+[Mon Dec 02 07:49:53 2024] [notice] Child 5832: Acquired the start mutex.
+[Mon Dec 02 07:49:53 2024] [notice] Child 5832: Starting 64 worker threads.
+[Mon Dec 02 07:49:53 2024] [notice] Child 5832: Starting thread to listen on port 1080.
+[Mon Dec 02 07:53:09 2024] [error] [client 192.168.211.147] File does not exist: C:/Users/manoj.b/Jmeter script/Web Tours Sample Application/WebTours/htdocs/favicon.ico, referer: http://192.168.211.147:1080/webtours/
+[Mon Dec 02 08:15:36 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 02 08:15:36 2024] [notice] Child 5832: Exit event signaled. Child process is ending.
+[Mon Dec 02 08:15:37 2024] [notice] Child 5832: Released the start mutex
+[Mon Dec 02 08:15:38 2024] [notice] Child 5832: All worker threads have exited.
+[Mon Dec 02 08:15:38 2024] [notice] Child 5832: Child process is exiting
+[Mon Dec 02 08:15:38 2024] [notice] Parent: Child process exited successfully.
