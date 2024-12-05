@@ -1,0 +1,24 @@
+Here are the steps to run a JMeter script from the command line:
+
+1. Open Command Prompt:
+
+Navigate to the directory where JMeter is installed. Typically, this will be the bin directory within the JMeter installation folder.
+
+2. Run the JMeter Script:
+
+ * Use the following command to run your JMeter script in non-GUI mode:
+
+=>jmeter -n -t /path/to/your/test.jmx -l /path/to/save/results.jtl
+
+-n: Specifies that JMeter should run in non-GUI mode.
+-t: Specifies the location of the JMX file that contains your test plan.
+-l: Specifies the location where the results will be saved in a JTL file.
+
+3. Generate an HTML Report (optional):
+
+ * To generate an HTML report from the results, you can use the following command:
+
+=>jmeter -g /path/to/results.jtl -o /path/to/output/folder
+
+-g: Specifies the location of the JTL file.
+-o: Specifies the output folder where the HTML report will be generated.

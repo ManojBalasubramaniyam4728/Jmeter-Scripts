@@ -245,3 +245,185 @@ ine the server's fully qualified domain name, using 192.168.211.147 for ServerNa
 [Tue Dec 03 21:47:33 2024] [notice] Child 22748: All worker threads have exited.
 [Tue Dec 03 21:47:33 2024] [notice] Child 22748: Child process is exiting
 [Tue Dec 03 21:47:33 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:10:05 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:10:05 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:10:05 2024] [notice] Parent: Created child process 15844
+Apache server shutdown initiated...
+Child 15844: Child process is running
+[Wed Dec 04 16:10:06 2024] [notice] Child 15844: Acquired the start mutex.
+[Wed Dec 04 16:10:06 2024] [notice] Child 15844: Starting 64 worker threads.
+[Wed Dec 04 16:10:06 2024] [notice] Child 15844: Starting thread to listen on port 1080.
+[Wed Dec 04 16:10:59 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:10:59 2024] [notice] Child 15844: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:11:00 2024] [notice] Child 15844: Released the start mutex
+[Wed Dec 04 16:11:01 2024] [notice] Child 15844: All worker threads have exited.
+[Wed Dec 04 16:11:01 2024] [notice] Child 15844: Child process is exiting
+[Wed Dec 04 16:11:01 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:11:04 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:11:04 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:11:04 2024] [notice] Parent: Created child process 23640
+Apache server interrupted...
+otice] Child 23640: Child process is running
+[Wed Dec 04 16:11:04 2024] [notice] Child 23640: Acquired the start mutex.
+[Wed Dec 04 16:11:04 2024] [notice] Child 23640: Starting 64 worker threads.
+[Wed Dec 04 16:11:04 2024] [notice] Child 23640: Starting thread to listen on port 1080.
+[Wed Dec 04 16:11:11 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:11:11 2024] [notice] Child 23640: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:11:12 2024] [notice] Child 23640: Released the start mutex
+[Wed Dec 04 16:11:13 2024] [notice] Child 23640: All worker threads have exited.
+[Wed Dec 04 16:11:13 2024] [notice] Child 23640: Child process is exiting
+[Wed Dec 04 16:11:13 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:11:19 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:11:19 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:11:19 2024] [notice] Parent: Created child process 14292
+Apache server interrupted...
+otice] Child 14292: Child process is running
+[Wed Dec 04 16:11:19 2024] [notice] Child 14292: Acquired the start mutex.
+[Wed Dec 04 16:11:19 2024] [notice] Child 14292: Starting 64 worker threads.
+[Wed Dec 04 16:11:19 2024] [notice] Child 14292: Starting thread to listen on port 1080.
+[Wed Dec 04 16:12:19 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:12:19 2024] [notice] Child 14292: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:12:20 2024] [notice] Child 14292: Released the start mutex
+[Wed Dec 04 16:12:21 2024] [notice] Child 14292: All worker threads have exited.
+[Wed Dec 04 16:12:21 2024] [notice] Child 14292: Child process is exiting
+[Wed Dec 04 16:12:21 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:12:34 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:12:34 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:12:34 2024] [notice] Parent: Created child process 3044
+Apache server shutdown initiated...
+Child 3044: Child process is running
+[Wed Dec 04 16:12:34 2024] [notice] Child 3044: Acquired the start mutex.
+[Wed Dec 04 16:12:34 2024] [notice] Child 3044: Starting 64 worker threads.
+[Wed Dec 04 16:12:34 2024] [notice] Child 3044: Starting thread to listen on port 1080.
+[Wed Dec 04 16:14:39 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:14:39 2024] [notice] Child 3044: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:14:40 2024] [notice] Child 3044: Released the start mutex
+[Wed Dec 04 16:14:41 2024] [notice] Child 3044: All worker threads have exited.
+[Wed Dec 04 16:14:41 2024] [notice] Child 3044: Child process is exiting
+[Wed Dec 04 16:14:41 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:15:07 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:15:07 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:15:07 2024] [notice] Parent: Created child process 21868
+Apache server shutdown initiated...
+Child 21868: Child process is running
+[Wed Dec 04 16:15:08 2024] [notice] Child 21868: Acquired the start mutex.
+[Wed Dec 04 16:15:08 2024] [notice] Child 21868: Starting 64 worker threads.
+[Wed Dec 04 16:15:08 2024] [notice] Child 21868: Starting thread to listen on port 1080.
+[Wed Dec 04 16:15:14 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:15:14 2024] [notice] Child 21868: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:15:15 2024] [notice] Child 21868: Released the start mutex
+[Wed Dec 04 16:15:16 2024] [notice] Child 21868: All worker threads have exited.
+[Wed Dec 04 16:15:16 2024] [notice] Child 21868: Child process is exiting
+[Wed Dec 04 16:15:16 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:15:28 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:15:28 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:15:28 2024] [notice] Parent: Created child process 16016
+Apache server shutdown initiated...
+Child 16016: Child process is running
+[Wed Dec 04 16:15:29 2024] [notice] Child 16016: Acquired the start mutex.
+[Wed Dec 04 16:15:29 2024] [notice] Child 16016: Starting 64 worker threads.
+[Wed Dec 04 16:15:29 2024] [notice] Child 16016: Starting thread to listen on port 1080.
+[Wed Dec 04 16:15:31 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:15:31 2024] [notice] Child 16016: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:15:32 2024] [notice] Child 16016: Released the start mutex
+[Wed Dec 04 16:15:33 2024] [notice] Child 16016: All worker threads have exited.
+[Wed Dec 04 16:15:33 2024] [notice] Child 16016: Child process is exiting
+[Wed Dec 04 16:15:33 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:15:39 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:15:39 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:15:39 2024] [notice] Parent: Created child process 17592
+Apache server interrupted...
+otice] Child 17592: Child process is running
+[Wed Dec 04 16:15:39 2024] [notice] Child 17592: Acquired the start mutex.
+[Wed Dec 04 16:15:39 2024] [notice] Child 17592: Starting 64 worker threads.
+[Wed Dec 04 16:15:39 2024] [notice] Child 17592: Starting thread to listen on port 1080.
+[Wed Dec 04 16:15:44 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:15:44 2024] [notice] Child 17592: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:15:45 2024] [notice] Child 17592: Released the start mutex
+[Wed Dec 04 16:15:46 2024] [notice] Child 17592: All worker threads have exited.
+[Wed Dec 04 16:15:46 2024] [notice] Child 17592: Child process is exiting
+[Wed Dec 04 16:15:46 2024] [notice] Parent: Child process exited successfully.
+[Wed Dec 04 16:17:52 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:17:52 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:17:52 2024] [notice] Parent: Created child process 6940
+Apache server shutdown initiated...
+Child 6940: Child process is running
+[Wed Dec 04 16:17:52 2024] [notice] Child 6940: Acquired the start mutex.
+[Wed Dec 04 16:17:52 2024] [notice] Child 6940: Starting 64 worker threads.
+[Wed Dec 04 16:17:52 2024] [notice] Child 6940: Starting thread to listen on port 1080.
+[Wed Dec 04 16:19:32 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 16:19:32 2024] [notice] Child 6940: Exit event signaled. Child process is ending.
+[Wed Dec 04 16:19:33 2024] [notice] Child 6940: Released the start mutex
+[Wed Dec 04 16:19:34 2024] [notice] Child 6940: All worker threads have exited.
+[Wed Dec 04 16:19:34 2024] [notice] Child 6940: Child process is exiting
+[Wed Dec 04 16:19:34 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 16:19:34 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 16:19:34 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 16:19:34 2024] [notice] Parent: Created child process 9952
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 16:19:34 2024] [notice] Child 9952: Child process is running
+[Wed Dec 04 16:19:34 2024] [notice] Child 9952: Acquired the start mutex.
+[Wed Dec 04 16:19:34 2024] [notice] Child 9952: Starting 64 worker threads.
+[Wed Dec 04 16:19:34 2024] [notice] Child 9952: Starting thread to listen on port 1080.
+[Wed Dec 04 16:19:48 2024] [error] [client 192.168.211.147] File does not exist: C:/Users/manoj.b/Jmeter script/Web Tours Sample Application/WebTours/htdocs/favicon.ico, referer: http://192.168.211.147:1080/webTours/
+[Wed Dec 04 17:48:28 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 17:48:28 2024] [notice] Child 9952: Exit event signaled. Child process is ending.
+[Wed Dec 04 17:48:29 2024] [notice] Child 9952: Released the start mutex
+[Wed Dec 04 17:48:30 2024] [notice] Child 9952: All worker threads have exited.
+[Wed Dec 04 17:48:30 2024] [notice] Child 9952: Child process is exiting
+[Wed Dec 04 17:48:30 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 17:48:39 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 17:48:39 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 17:48:39 2024] [notice] Parent: Created child process 25284
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 17:48:39 2024] [notice] Child 25284: Child process is running
+[Wed Dec 04 17:48:39 2024] [notice] Child 25284: Acquired the start mutex.
+[Wed Dec 04 17:48:39 2024] [notice] Child 25284: Starting 64 worker threads.
+[Wed Dec 04 17:48:39 2024] [notice] Child 25284: Starting thread to listen on port 1080.
+[Wed Dec 04 18:09:47 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 18:09:47 2024] [notice] Child 25284: Exit event signaled. Child process is ending.
+[Wed Dec 04 18:09:48 2024] [notice] Child 25284: Released the start mutex
+[Wed Dec 04 18:09:49 2024] [notice] Child 25284: All worker threads have exited.
+[Wed Dec 04 18:09:49 2024] [notice] Child 25284: Child process is exiting
+[Wed Dec 04 18:09:49 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 20:09:30 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 20:09:30 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 20:09:30 2024] [notice] Parent: Created child process 16616
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 20:09:30 2024] [notice] Child 16616: Child process is running
+[Wed Dec 04 20:09:30 2024] [notice] Child 16616: Acquired the start mutex.
+[Wed Dec 04 20:09:30 2024] [notice] Child 16616: Starting 64 worker threads.
+[Wed Dec 04 20:09:30 2024] [notice] Child 16616: Starting thread to listen on port 1080.
+[Wed Dec 04 20:18:12 2024] [error] [client 192.168.211.147] File does not exist: C:/Users/manoj.b/Jmeter script/Web Tours Sample Application/WebTours/htdocs/favicon.ico, referer: http://192.168.211.147:1080/webTours/
+[Wed Dec 04 21:14:02 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 21:14:02 2024] [notice] Child 16616: Exit event signaled. Child process is ending.
+[Wed Dec 04 21:14:03 2024] [notice] Child 16616: Released the start mutex
+[Wed Dec 04 21:14:04 2024] [notice] Child 16616: All worker threads have exited.
+[Wed Dec 04 21:14:04 2024] [notice] Child 16616: Child process is exiting
+[Wed Dec 04 21:14:04 2024] [notice] Parent: Child process exited successfully.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 21:16:12 2024] [notice] Apache/2.2.21 (Win32) configured -- resuming normal operations
+[Wed Dec 04 21:16:12 2024] [notice] Server built: Sep  9 2011 10:26:10
+[Wed Dec 04 21:16:12 2024] [notice] Parent: Created child process 21920
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+Apache server shutdown initiated...
+ine the server's fully qualified domain name, using 192.168.211.147 for ServerName
+[Wed Dec 04 21:16:12 2024] [notice] Child 21920: Child process is running
+[Wed Dec 04 21:16:12 2024] [notice] Child 21920: Acquired the start mutex.
+[Wed Dec 04 21:16:12 2024] [notice] Child 21920: Starting 64 worker threads.
+[Wed Dec 04 21:16:12 2024] [notice] Child 21920: Starting thread to listen on port 1080.
+[Wed Dec 04 21:28:31 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Dec 04 21:28:31 2024] [notice] Child 21920: Exit event signaled. Child process is ending.
+[Wed Dec 04 21:28:32 2024] [notice] Child 21920: Released the start mutex
+[Wed Dec 04 21:28:33 2024] [notice] Child 21920: All worker threads have exited.
+[Wed Dec 04 21:28:33 2024] [notice] Child 21920: Child process is exiting
+[Wed Dec 04 21:28:33 2024] [notice] Parent: Child process exited successfully.
